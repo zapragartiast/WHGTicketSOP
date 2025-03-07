@@ -1,4 +1,4 @@
-**Version:** 1.1  
+**Version:** 1.1.1  
 
 Thank you for visiting the SOP (Standard Operating Procedure) page. On this page, you can read in detail about the procedures that must be implemented by the Ticket Team at World Host Group Bali.
 
@@ -17,13 +17,13 @@ Covers all complaints received through the ticketing system, including both tech
 - Each Support Team member is required to take initiative in managing available tickets in the portal and must be ready to accept ticket assignments from the Supervisor and Team Leader. 
 - Prioritize the oldest tickets in the assigned list. 
 - Every Support Team member who takes and accepts a customer ticket must verify the customer’s account to validate the service. 
-- Before responding to a ticket, the support team should first understand the problem reported by the customer. 
+- Before responding to a ticket, the Support Team should first understand the problem reported by the customer. 
 - Ensure that the issue reported is clearly confirmed with the customer. 
 - If any changes or settings in the customer’s service are required, obtain the customer’s permission beforehand. 
-- The support team should inform the customer about the expected escalation time if the ticket cannot be resolved quickly, and update the ticket’s progress if the issue remains unresolved within the mentioned escalation time. 
-- If the issue is not resolved by the end of the working hours, the support team must leave detailed notes on the ticket to facilitate escalation to the next shift. 
-- The support team should explain the issue and the steps taken to resolve it in detail to the customer when responding to a completed ticket. 
-- The support team may provide a Trustpilot review link to the customer through the ticket if the issue has been fully resolved. 
+- The Support Team should inform the customer about the expected escalation time if the ticket cannot be resolved quickly, and update the ticket’s progress if the issue remains unresolved within the mentioned escalation time. 
+- If the issue is not resolved by the end of the working hours, the Support Team must leave detailed notes on the ticket to facilitate escalation to the next shift. 
+- The Support Team should explain the issue and the steps taken to resolve it in detail to the customer when responding to a completed ticket. 
+- The Support Team may provide a Trustpilot review link to the customer through the ticket if the issue has been fully resolved. 
 
 ## 2. SOP for Escalation to Other Departments
 
@@ -37,18 +37,18 @@ Covers all complaints received through the ticketing system and all related depa
 
 ### 2.3. Procedure for Escalating Tickets to Other Departments
 
-- The support team may escalate tickets assigned by the supervisor if the ticket's context shifts from technical to non-technical issues. 
-- The support team can escalate to the appropriate group chat by opening a thread, providing the ticket ID, product details, context, brand, and other relevant information to facilitate other departments' checks. 
+- The Support Team may escalate tickets assigned by the supervisor if the ticket's context shifts from technical to non-technical issues. 
+- The Support Team can escalate to the appropriate group chat by opening a thread, providing the ticket ID, product details, context, brand, and other relevant information to facilitate other departments' checks. 
 - Ensure the ticket is assigned to the correct department listed in the portal. 
-- If only consultation with another department is needed without assigning the ticket, the support team must add a note and attach the thread link to the ticket note. 
+- If only consultation with another department is needed without assigning the ticket, the Support Team must add a note and attach the thread link to the ticket note. 
 - Inform the customer that their issue is being handled by the relevant team and update them when the issue is resolved. 
-- The support team can follow up in the thread if there is no update within a certain timeframe.
+- The Support Team can follow up in the thread if there is no update within a certain timeframe.
 
 ## 3. SOP for Escalation to Level 2
 
 ### 3.1. Purpose
 
-To ensure an efficient and structured process for escalating tickets from the Level 1 (L1) support team to the Level 2 (L2) support team regarding customer complaints.
+To ensure an efficient and structured process for escalating tickets from the Level 1 (L1) Support Team to the Level 2 (L2) Support Team regarding customer complaints.
 
 ### 3.2. Scope
 
@@ -143,13 +143,13 @@ Covers all complaints received through the ticket system related to billing, ser
 
 #### 5.3.1. Verification
 
-The support team have limitation on what can be done and what to escalate to billing and retention team.
+The Support Team have limitation on what can be done and what to escalate to billing and retention team.
 
 #### 5.3.2. Issue Identification
 
 - **System Errors**: The approach depends on the specific system error. If it's a global temporary issue (e.g., Upmind), escalate it directly to the Billing Team. However, if a specific client encounters an error while trying to make a payment, request the exact error message first. Once you have more details, pass the ticket to the Billing Team for further handling.
 - **Human Errors**: If a customer inquires about pricing, do not engage in verification or clarification. Instead, immediately escalate the ticket to the Billing Team for further assistance.
-- **Ticket Changes & Adjustment**: The Support team is permitted to transfer tickets to the Billing department without responding to the customer. When transferring a ticket to the Billing department, ensure that it remains unassigned and its status is set to 'Open.' This policy also applies when the Support team handles tickets related to the Cancellation, Domain, and Trust & Safety departments.
+- **Ticket Changes & Adjustment**: The Support Team is permitted to transfer tickets to the Billing department without responding to the customer. When transferring a ticket to the Billing department, ensure that it remains unassigned and its status is set to 'Open.' This policy also applies when the Support Team handles tickets related to the Cancellation, Domain, and Trust & Safety departments.
 
 #### 5.3.3. Activation Issue
 
@@ -195,11 +195,11 @@ The support team have limitation on what can be done and what to escalate to bil
 
 ## 6. Ticket Department and Status
 
-The support team is responsible for handling tickets specifically assigned to them and should not intervene in tickets managed by other departments.   
+The Support Team is responsible for handling tickets specifically assigned to them and should not intervene in tickets managed by other departments.   
 
 ### 6.1. Purpose
 
-Covers that all tickets are well-organized, and the support team handles only their responsible to tickets that related with Support without interfering with those belonging to other departments.   
+Covers that all tickets are well-organized, and the Support Team handles only their responsible to tickets that related with Support without interfering with those belonging to other departments.   
 
 ### 6.2. Scope
 
@@ -207,8 +207,8 @@ Handles adjustments and modifications for all tickets that don't belong to the S
 
 ### 6.3. Responsibility of Other Tickets Departments
 
-- The Support Team is not authorized to handle or work on the tickets related to other departments, including **Billings**, **Cancellations**, **Domains**, **Advocacy**, **Sales**, **Migration**, and **Trust & Safety**.
-- The Support Team is solely responsible for handling tickets in the following departments:
+- The Technical Support Team is not authorized to handle or work on the tickets related to other departments, including **Billings**, **Cancellations**, **Domains**, **Advocacy**, **Sales**, **Migration**, and **Trust & Safety**.
+- The Technical Support Team is solely responsible for handling tickets in the following departments:
  - **Level 1 Technical Support**:
   - General
   - Support
@@ -221,8 +221,8 @@ Handles adjustments and modifications for all tickets that don't belong to the S
  - **Level 2 Technical Support**:
   - Escalated
   - VIP Customers
-- The Support Team members who identify a ticket that should be handled by another department are allowed to change the ticket department without the need to respond.
-- If the Support Team has previously communicated and worked on a ticket, and it subsequently needs to be reassigned to another department, they must include relevant information in the ticket's Internal Note and change the ticket status to **Open**.
+- The Technical Support Team members who identify a ticket that should be handled by another department are allowed to change the ticket department without the need to respond.
+- If the Technical Support Team has previously communicated and worked on a ticket, and it subsequently needs to be changed to another department, they must include relevant information in the ticket's Internal Note and change the ticket status to **Open**.
 
 ## 7. Data Backup Restore SOP 
 
@@ -232,7 +232,7 @@ To ensure efficient handling of data backup restore requests for Shared Hosting 
 
 ### 7.2. Scope
 
-Covers all data backup restore requests received by the support team through the ticket system.
+Covers all data backup restore requests received by the Support Team through the ticket system.
 
 ### 7.3. Data Backup Restore Handling 
 
@@ -249,16 +249,16 @@ To ensure that handling email issues on customer services does not interfere wit
 
 ### 8.2. Scope
 
-Covers all requests for email issue checks received by the support team through the ticketing system.
+Covers all requests for email issue checks received by the Support Team through the ticketing system.
 
 ### 8.3. Email Test Procedure 
 
 - When the Technical Support Team receives a complaint regarding email activity, they must perform a test for sending and receiving emails on the customer's service. 
-- **Permission Requirement**: The support team must obtain permission from the customer if they need to perform a test of email send/receive activity using the customer's email account. 
-- Once the customer has agreed and given permission, the support team may send an email to a provided address, such as Gmail, Hotmail, or Yahoo. 
+- **Permission Requirement**: The Support Team must obtain permission from the customer if they need to perform a test of email send/receive activity using the customer's email account. 
+- Once the customer has agreed and given permission, the Support Team may send an email to a provided address, such as Gmail, Hotmail, or Yahoo. 
 - **Prohibited Actions**: Support staff are not allowed to perform test sends or receives to their own personal email accounts.
-- If the customer prefers not to grant access to their email, the support team should request permission to create a temporary dummy test email on the customer's service. 
-- After completing the test successfully, the support team should delete the dummy email. 
+- If the customer prefers not to grant access to their email, the Support Team should request permission to create a temporary dummy test email on the customer's service. 
+- After completing the test successfully, the Support Team should delete the dummy email. 
 - Send the email test results to the customer by attaching a screenshot of the sent email to the ticket. 
 
 ## 9. SOP for Ticket Categorization 
@@ -279,9 +279,9 @@ Applies to all complaints received through the ticket system, covering both tech
  - **Lower Case**: Basic level tickets.
  - **Medium Case**: Intermediate level tickets. 
  - **Hard Case**: Complex level tickets.
-- The ticket categories are communicated to the support team by the team leader and supervisor as a performance parameter. 
+- The ticket categories are communicated to the Support Team by the Team Leader and Supervisor as a performance parameter. 
 - Each category has a performance value that will be compiled and used for KPI assessment, with values determined by the Team Leader and Supervisor. 
-- Summary assessments will be communicated to the support team in one-on-one meetings with the team leader and supervisor.
+- Summary assessments will be communicated to the Support Team in one-on-one meetings with the team leader and supervisor.
 
 ## 10. SOP for KPI Assessment 
 
