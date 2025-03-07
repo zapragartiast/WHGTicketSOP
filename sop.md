@@ -1,4 +1,4 @@
-**Version:** 1.0  
+**Version:** 1.1  
 
 Thank you for visiting the SOP (Standard Operating Procedure) page. On this page, you can read in detail about the procedures that must be implemented by the Ticket Team at World Host Group Bali.
 
@@ -149,6 +149,7 @@ The support team have limitation on what can be done and what to escalate to bil
 
 - **System Errors**: The approach depends on the specific system error. If it's a global temporary issue (e.g., Upmind), escalate it directly to the Billing Team. However, if a specific client encounters an error while trying to make a payment, request the exact error message first. Once you have more details, pass the ticket to the Billing Team for further handling.
 - **Human Errors**: If a customer inquires about pricing, do not engage in verification or clarification. Instead, immediately escalate the ticket to the Billing Team for further assistance.
+- **Ticket Changes & Adjustment**: The Support team is permitted to transfer tickets to the Billing department without responding to the customer. When transferring a ticket to the Billing department, ensure that it remains unassigned and its status is set to 'Open.' This policy also applies when the Support team handles tickets related to the Cancellation, Domain, and Trust & Safety departments.
 
 #### 5.3.3. Activation Issue
 
@@ -192,34 +193,65 @@ The support team have limitation on what can be done and what to escalate to bil
 
  If there is an urgent matter, such as an imminent renewal or a dispute, ensure the Billing and Retention Team is flagged accordingly.
 
-## 6. Data Backup Restore SOP 
+## 6. Ticket Department and Status
+
+The support team is responsible for handling tickets specifically assigned to them and should not intervene in tickets managed by other departments.   
 
 ### 6.1. Purpose
 
-To ensure efficient handling of data backup restore requests for Shared Hosting and Reseller packages via the ticket system.
+Covers that all tickets are well-organized, and the support team handles only their responsible to tickets that related with Support without interfering with those belonging to other departments.   
 
 ### 6.2. Scope
 
+Handles adjustments and modifications for all tickets that don't belong to the Support Team queue.   
+
+### 6.3. Responsibility of Other Tickets Departments
+
+- The Support Team is not authorized to handle or work on the tickets related to other departments, including **Billings**, **Cancellations**, **Domains**, **Advocacy**, **Sales**, **Migration**, and **Trust & Safety**.
+- The Support Team is solely responsible for handling tickets in the following departments:
+ - **Level 1 Technical Support**:
+  - General
+  - Support
+  - SSL
+  - DNS Troubleshooting
+  - Email Troubleshooting
+  - Hosting Troubleshooting
+  - M365 Support
+  - OX MAIL
+ - **Level 2 Technical Support**:
+  - Escalated
+  - VIP Customers
+- The Support Team members who identify a ticket that should be handled by another department are allowed to change the ticket department without the need to respond.
+- If the Support Team has previously communicated and worked on a ticket, and it subsequently needs to be reassigned to another department, they must include relevant information in the ticket's Internal Note and change the ticket status to **Open**.
+
+## 7. Data Backup Restore SOP 
+
+### 7.1. Purpose
+
+To ensure efficient handling of data backup restore requests for Shared Hosting and Reseller packages via the ticket system.
+
+### 7.2. Scope
+
 Covers all data backup restore requests received by the support team through the ticket system.
 
-### 6.3. Data Backup Restore Handling 
+### 7.3. Data Backup Restore Handling 
 
 - Support verifies the customer's service through the client area and confirms backup availability on the server. 
 - Support should confirm with the customer whether a full or partial data restore is desired. 
 - If an error occurs during the restore, escalate the issue to the System Administrator (Infrastructure) Team as per the Escalation SOP. 
 - After completion, inform the customer and recommend a post-restore check. 
 
-## 7. SOP for Email Test Trials 
+## 8. SOP for Email Test Trials 
 
-### 7.1. Purpose
+### 8.1. Purpose
 
 To ensure that handling email issues on customer services does not interfere with the customer's email privacy and activity. 
 
-### 7.2. Scope
+### 8.2. Scope
 
 Covers all requests for email issue checks received by the support team through the ticketing system.
 
-### 7.3. Email Test Procedure 
+### 8.3. Email Test Procedure 
 
 - When the Technical Support Team receives a complaint regarding email activity, they must perform a test for sending and receiving emails on the customer's service. 
 - **Permission Requirement**: The support team must obtain permission from the customer if they need to perform a test of email send/receive activity using the customer's email account. 
@@ -229,17 +261,17 @@ Covers all requests for email issue checks received by the support team through 
 - After completing the test successfully, the support team should delete the dummy email. 
 - Send the email test results to the customer by attaching a screenshot of the sent email to the ticket. 
 
-## 8. SOP for Ticket Categorization 
+## 9. SOP for Ticket Categorization 
 
-### 8.1. Purpose
+### 9.1. Purpose
 
 To classify the complexity level of tickets submitted by customers for organized handling and use as a KPI assessment parameter.
 
-### 8.2. Scope
+### 9.2. Scope
 
 Applies to all complaints received through the ticket system, covering both technical and non-technical issues. 
 
-### 8.3. Ticket Categorization Procedure 
+### 9.3. Ticket Categorization Procedure 
 
 - The Technical Support Team must proactively manage tickets available in the portal and be ready to accept ticket assignments from the Supervisor or Team Leader.
 - Each ticket received has a different level of difficulty and carries a different weight in case-handling assessment. 
@@ -251,17 +283,17 @@ Applies to all complaints received through the ticket system, covering both tech
 - Each category has a performance value that will be compiled and used for KPI assessment, with values determined by the Team Leader and Supervisor. 
 - Summary assessments will be communicated to the support team in one-on-one meetings with the team leader and supervisor.
 
-## 9. SOP for KPI Assessment 
+## 10. SOP for KPI Assessment 
 
-### 9.1. Purpose 
+### 10.1. Purpose 
 
 To establish performance parameters for the ticketing team across all aspects to evaluate individual team members’ performance over a specific period.
 
-### 9.2. Scope 
+### 10.2. Scope 
 
 Includes all assessments of the ticket team’s individual performance in handling both technical and non-technical issues.
 
-### 9.3 KPI Assessment Procedure 
+### 10.3 KPI Assessment Procedure 
 
 - The Team Leader and Supervisor define the assessment aspects and parameters, including:
  - **Key Results Area**:
