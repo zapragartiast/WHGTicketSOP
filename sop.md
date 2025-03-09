@@ -1,4 +1,4 @@
-**Version:** 1.1.2  
+**Version:** 1.1.3  
 
 Thank you for visiting the SOP (Standard Operating Procedure) page. On this page, you can read in detail about the procedures that must be implemented by the Ticket Team at World Host Group Bali.
 
@@ -143,7 +143,10 @@ Covers all complaints received through the ticket system related to billing, ser
 
 #### 5.3.1. Verification
 
-The Support Team have limitation on what can be done and what to escalate to billing and retention team.
+The Support Team has limitations on what can be done and what to escalate to the Billing and Retention team, including:
+
+- The Support Team is not allowed to respond to, handle, or work on tickets assigned to the Billing and Cancellation teams.
+- If a Billing or Cancellation ticket is accidentally taken by the Support Team, they may reassign the ticket to the appropriate department.
 
 #### 5.3.2. Issue Identification
 
@@ -190,8 +193,7 @@ The Support Team have limitation on what can be done and what to escalate to bil
 #### 5.3.9. Refund Issue
 
 - Any inquiry related to this, please immediately escalate to the Billing Team.
-
- If there is an urgent matter, such as an imminent renewal or a dispute, ensure the Billing and Retention Team is flagged accordingly.
+- If there is an urgent matter, such as an imminent renewal or a dispute, ensure the Billing and Retention Team is flagged accordingly.
 
 ## 6. Ticket Department and Status
 
