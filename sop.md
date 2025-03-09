@@ -253,7 +253,7 @@ Covers all requests for email issue checks received by the Support Team through 
 
 ### 8.3. Email Test Procedure 
 
-- When the Technical Support Team receives a complaint regarding email activity, they must perform a test for sending and receiving emails on the customer's service. 
+- When the Technical Support Team receives a complaint from a client regarding email issues, whether they are unable to send or receive emails, they must perform a test to verify both sending and receiving functionality on the customer's service.  
 - **Permission Requirement**: The Support Team must obtain permission from the customer if they need to perform a test of email send/receive activity using the customer's email account. 
 - Once the customer has agreed and given permission, the Support Team may send an email to a provided address, such as Gmail, Hotmail, or Yahoo. 
 - **Prohibited Actions**: Support staff are not allowed to perform test sends or receives to their own personal email accounts.
