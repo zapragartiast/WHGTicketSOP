@@ -1,4 +1,4 @@
-**Version:** 1.1.1  
+**Version:** 1.1.2  
 
 Thank you for visiting the SOP (Standard Operating Procedure) page. On this page, you can read in detail about the procedures that must be implemented by the Ticket Team at World Host Group Bali.
 
